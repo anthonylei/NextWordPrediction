@@ -3,14 +3,13 @@
 ##### server.r - server file of Next Word Prediction application.
 ##### ui.r - interface file of Next Word Prediction application.
 ##### Predict.r - this function predict the most likely words given text.
-##### index.html - the reference of the project requirment.
 #
 
 This repository contains the submission file/ report of the capstone project of the Data Science Specialization, developed by Johns Hopkins University via Coursera.
 
-For reference of the project: [HTML Report] (https://anthonylei.github.io/NextWordPrediction/)
+For reference of the project: [HTML Report] (http://rpubs.com/hlei/nextWord)
 
-The link to the Cumulative Stock Return Analysis Application: [HTML Apps] (https://DSSNextWord.shinyapps.io/ShinyApp/)
+The link to the Cumulative Stock Return Analysis Application: [HTML Apps] (https://returns.shinyapps.io/dssnextword/)
 
 MIT License
 

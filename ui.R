@@ -35,5 +35,5 @@ shinyUI(fluidPage(
     h5("Reference Links:"),
     a("Author: Anthony Lei  ", href = "https://www.linkedin.com/in/anthonylei", target="_blank"),    
     a("Github Source Code   ", href = "https://github.com/anthonylei/NextWordPrediction", target="_blank"),
-    a("Documentations", href = "https://anthonylei.github.io/NextWordPrediction/", target="_blank")
+    a("Documentations", href = "http://rpubs.com/hlei/nextWord", target="_blank")
 ))
